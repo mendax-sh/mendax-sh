@@ -1,4 +1,4 @@
-## Olá eu sou a Marcos,tenho conhecimentos em segurança da informação, mas trabalho e estudo com SRE/Devops!
+## Olá eu sou a Marcos!
 
 <div align="center">
   <a href="https://github.com/mendax-sh">
