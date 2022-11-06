@@ -1,4 +1,5 @@
-## Olá eu sou a Marcos,tenho conhecimentos em segurança da informação, em particular contra inteligencia. mas trabalho e estudo  SRE/Devops!
+## Olá eu sou a Marcos,tenho conhecimentos em segurança da informação, mas trabalho e estudo com SRE/Devops!
+
 <div align="center">
   <a href="https://github.com/mendax-sh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendax-sh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -25,6 +26,6 @@
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-lucas-pereira-185634bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mendax/mendax/blob/output/github-contribution-grid-snake.svg)
  
 </div>
