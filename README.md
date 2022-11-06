@@ -1,4 +1,4 @@
-## Oiii eu sou a Marcos, Sysadmin/Devops!
+## Olá eu sou a Marcos,tenho conhecimentos em segurança da informação, em particular contra inteligencia. mas trabalho e estudo  SRE/Devops!
 <div align="center">
   <a href="https://github.com/mendax-sh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendax-sh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
